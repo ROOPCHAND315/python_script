@@ -1,0 +1,15 @@
+Content-Length: 0
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 18 Nov 2023 12:53:32 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=604800
+Expires: Sat, 18 Nov 2023 07:57:29 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: redirection
+Location: /about/contact/
+Referrer-Policy: 
+Vary: Accept-Encoding
+X-Varnish: 292756570 289995177
+Age: 21363
+X-Cache: HIT
+X-Powered-By: TheWalrus

@@ -1,0 +1,23 @@
+Date: Fri, 17 Nov 2023 07:39:56 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://www.clashmusic.com/login/
+X-Frame-Options: sameorigin
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Referrer-Policy: origin-when-cross-origin
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Expires: Fri, 17 Nov 2023 08:39:56 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+X-Cache: BYPASS
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=91MmZG7uZ539YEf%2Bu%2F2hrF0ZBahC9w0kK9vC6C2zvsIOCdypYmFfc6XgLTJHmC1dhcGT6ueHoCSzzsYZPYe1qVuSTaxWCUVaw9ryDyS9yib%2BYHernaoVHvHsMXenH56vPpfzlN4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 827652958f126636-AMS
+Alt-Svc: h3=":443"; ma=86400

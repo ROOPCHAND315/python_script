@@ -1,0 +1,7 @@
+Content-Length: 226
+Content-Type: application/xml
+Server: Blob Service Version 1.0 Microsoft-HTTPAPI/2.0
+X-Ms-Request-Id: d8f44c47-801e-00a9-4df8-1936cc000000
+Access-Control-Expose-Headers: x-ms-request-id,Access-Control-Allow-Origin,content-type
+Access-Control-Allow-Origin: *
+Date: Sat, 18 Nov 2023 08:22:48 GMT

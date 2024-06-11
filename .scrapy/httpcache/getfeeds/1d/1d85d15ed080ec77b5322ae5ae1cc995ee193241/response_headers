@@ -1,0 +1,23 @@
+Content-Length: 446
+Server: nginx
+Date: Mon, 20 Nov 2023 11:12:56 GMT
+Content-Type: text/plain;charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding, X-UA-Device
+X-Rid: 38d22546e9ba3d0c510e18223e626e23
+P3P: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+Content-Security-Policy-Report-Only: script-src 'self' https://assets.tumblr.com https://sb.scorecardresearch.com/beacon.js https://ssl.google-analytics.com/ga.js https://www.google-analytics.com/analytics.js https://fc.yahoo.com/sdarla/php/client.php https://s.yimg.com/rq/darla/ https://www.googletagservices.com/tag/js/gpt.js https://securepubads.g.doubleclick.net/gpt/ https://securepubads.g.doubleclick.net/gampad/ads https://pagead2.googlesyndication.com/pagead/osd.js https://www.google.com/recaptcha/api.js https://*.gemini.yahoo.com https://s.yimg.com/av/gemini/ga/gemini-iframe.js https://s.yimg.com/av/curveball/ 'unsafe-eval' 'nonce-ck3hNjTmmnIMq39X2TkaJvVuJc'; object-src 'none'; worker-src blob:; base-uri 'self'; report-uri https://www.tumblr.com/svc/cspreports;
+Cache-Control: public
+Last-Modified: Wed, 11 Oct 2023 13:18:45 GMT
+Expires: Tue, 21 Nov 2023 11:12:56 GMT
+Pragma: 
+X-Ua-Compatible: IE=Edge,chrome=1
+Content-Encoding: gzip
+X-Ua-Device: crawler
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000; preload
+X-Nc: bom 2

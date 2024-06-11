@@ -1,0 +1,12 @@
+Date: Mon, 20 Nov 2023 11:03:07 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.2.11
+Link: <https://azamil.com/index.php?rest_route=/>; rel="https://api.w.org/", <https://azamil.com/index.php?rest_route=/wp/v2/posts/38711>; rel="alternate"; type="application/json", <https://azamil.com/?p=38711>; rel=shortlink
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JlXqgUGe628GKXtktoMsgz6jT4shQ4P1Rupsz3oYKMSy67a9%2F7K7KVGn9wMOjIypo%2F6k1VIPFJ4NbjUvQiEwnGv4UfrtJL86MOkoxE12LT%2BbgW6PX8LeCjY1%2Fr6q"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 82903455290b3fe0-SIN
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

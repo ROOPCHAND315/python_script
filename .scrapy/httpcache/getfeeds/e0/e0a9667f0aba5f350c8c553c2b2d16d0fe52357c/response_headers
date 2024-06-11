@@ -1,0 +1,38 @@
+Date: Sat, 18 Nov 2023 08:56:25 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 57
+X-Sorting-Hat-Shopid: 16447
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=bc0c7e3a-ae31-44ee-a17f-6bdbbe5b43da; path=/; expires=Sat, 18 Nov 2023 09:26:25 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 18 Nov 2024 08:56:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=IN; path=/; expires=Mon, 18 Nov 2024 08:56:25 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22CA%22%2C%22sale_of_data_region%22%3Afalse%7D; domain=walrusmagazine.com; path=/; expires=Sun, 19 Nov 2023 08:56:25 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=bbf502ef-b8ef-4edb-a047-8d6c205ea232; Expires=Sun, 17-Nov-24 08:56:25 GMT; Domain=walrusmagazine.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=115b7fe1-8d35-48b8-bf02-81064bffbfeb; Expires=Sat, 18-Nov-23 09:26:25 GMT; Domain=walrusmagazine.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:fa4246c778adb794153acb98f0970606"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 16447
+X-Shardid: 57
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=14, db;dur=6, asn;desc="133676", edge;desc="BOM", country;desc="IN", theme;desc="44679594042", servedBy;desc="v2x8", requestID;desc="374cd45b-0ed6-4b8d-b7e7-6d06e5c50eb2"
+Server-Timing: cfRequestDuration;dur=156.999826
+X-Shopify-Stage: production
+X-Dc: gcp-asia-south1,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 374cd45b-0ed6-4b8d-b7e7-6d06e5c50eb2
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7rVVGW0dv9y3BlpDm2z%2F9G3cdDvDuIO8Xo48sGCv4fwWQNMadMbto%2BZr3x7gePZLgTAzHtumCR5jHjbcSwzdnPb%2FyaPU6oZ420REw7n6IOhJs%2BkiN%2BBhlnuXOltyEIfVBPFn46mgQjT6Vg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 827f00077ea02e65-BOM
+Alt-Svc: h3=":443"; ma=86400

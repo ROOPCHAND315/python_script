@@ -1,0 +1,19 @@
+Content-Length: 79862
+Server: daiquiri/3.0.0
+Content-Type: text/html
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob: http://* https://*; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+X-Apple-Jingle-Correlation-Key: 3YRTNTX5C3GKBQOTBHVCKXCTT4
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Original-Content-Length: 380809
+X-Responding-Instance: amp-web-podcasts-preview-server:200115:st44p00it-qugc07021501:6003:2340.4.0
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Daiquiri-Instance: daiquiri:47691001:st44p00it-hyhk16124001:7987:23RELEASE188:daiquiri-amp-store-shared-ext-003-st
+Cache-Control: public, max-age=58
+Date: Sat, 18 Nov 2023 08:56:22 GMT
+X-Cache: TCP_MISS from a104-90-5-206.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (-)
+X-Cache-Remote: TCP_REFRESH_MISS from a104-91-59-38.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2.1-52518411) (S)
+Set-Cookie: geo=IN; domain=.apple.com
+Vary: X-Apple-Store-Front, Cookie

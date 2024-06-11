@@ -1,0 +1,16 @@
+Date: Mon, 20 Nov 2023 11:19:03 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://24ora.com/wp-json/>; rel="https://api.w.org/", <https://24ora.com/wp-json/wp/v2/posts/518263>; rel="alternate"; type="application/json", <https://24ora.com/?p=518263>; rel=shortlink
+Expires: Mon, 20 Nov 2023 12:18:57 GMT
+Vary: X-Forwarded-Proto,Accept-Encoding
+Last-Modified: Mon, 20 Nov 2023 11:18:57 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Age: 5
+X-Cache: HIT
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ToOlWTrrV4p9LaMf%2BCL70G0B8h45JaNNlm0FsCo5Qoh8h1WFb7bLU1c7vJ3vzJOf1lwjiST00SXtLI%2Bzof7ftC09AjHyxy41wbFr8tMPUhwqDI4yf5ckQ5Q1t5Q%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 82904bb38a85f37b-BOM
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

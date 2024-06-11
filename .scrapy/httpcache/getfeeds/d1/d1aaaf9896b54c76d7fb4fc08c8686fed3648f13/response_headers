@@ -1,0 +1,26 @@
+Date: Tue, 21 Nov 2023 09:55:40 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Set-Cookie: wordpress_google_apps_login=629e4e6e05d8419099ea922c98262d35; path=/; secure; HttpOnly
+Set-Cookie: PHPSESSID=6fe9a82f9e6e498ec6c32ce6b6f5ab4d; path=/
+Set-Cookie: __cf_bm=bI3qrJOmp.qStjgw0mfZ1tpdlA0pSkd.OPhFeQlexag-1700560540-0-AY0G1uELlVu2t3EkVqRkiDlNsl14hyTUH+r0hUBTESGKZ1ecWvz/fTGY+F7w4gZUYCFREFf7QUzraiAMJibdcJc=; path=/; expires=Tue, 21-Nov-23 10:25:40 GMT; domain=.www.connect-local.co.uk; HttpOnly; Secure; SameSite=None
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: origin-when-cross-origin
+Link: <https://www.connect-local.co.uk/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.connect-local.co.uk/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
+Link: <https://www.connect-local.co.uk/>; rel=shortlink
+X-Cacheable: NO:Set Known Cookie
+Cache-Control: max-age=0, must-revalidate, private
+X-Cache: MISS
+X-Cache-Group: normal
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 82980ee508628492-BOM
+Alt-Svc: h3=":443"; ma=86400

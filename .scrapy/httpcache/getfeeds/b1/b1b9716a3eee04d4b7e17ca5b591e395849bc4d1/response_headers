@@ -1,0 +1,14 @@
+Date: Sat, 18 Nov 2023 08:33:52 GMT
+Content-Type: text/plain
+X-Frame-Options: DENY
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VInSyDDdBRmYQT25ToHFqhaPeJh81Hv6k%2FkeuWFzjkl2Ts2ag5hQyep4B0yhlJRnTBDwPU6O6JzKjAjoY7sP6cIhjPfUIkOk6JAmivPvAcBA8M%2B%2Bs5V8yCmWnMc3"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Set-Cookie: __cfruid=65e81201fbc22724864ed61f396e5ff8578a4058-1700296432; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=6KxgleIkdxkd.aqB2HerXXusYrVA8Gdfg5F5qzxWdaE-1700296432398-0-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 827edefe5a128adc-DEL
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

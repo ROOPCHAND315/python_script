@@ -1,0 +1,9 @@
+Server: nginx
+Date: Sat, 18 Nov 2023 08:33:48 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Language, Cookie
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-uk
+Set-Cookie: csrftoken=Tix4TQdqRbM5lkR0mbTsspqLK3C6RpkpDTnBnGf4JTScYds5q7H8psVC97Nab0YC; expires=Sat, 16-Nov-2024 08:33:48 GMT; Max-Age=31449600; Path=/
+Content-Encoding: gzip

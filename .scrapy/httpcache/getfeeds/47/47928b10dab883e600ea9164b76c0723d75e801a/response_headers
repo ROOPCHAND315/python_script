@@ -1,0 +1,15 @@
+Content-Length: 0
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 18 Nov 2023 12:53:21 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=604800
+Expires: Sat, 18 Nov 2023 07:57:21 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://thewalrus.ca/about/newsletters/
+Referrer-Policy: 
+Vary: Accept-Encoding
+X-Varnish: 293541926 289079389
+Age: 21360
+X-Cache: HIT
+X-Powered-By: TheWalrus

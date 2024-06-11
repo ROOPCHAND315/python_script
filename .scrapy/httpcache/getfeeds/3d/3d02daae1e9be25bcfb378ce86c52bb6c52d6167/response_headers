@@ -1,0 +1,11 @@
+Content-Length: 23
+Date: Sat, 18 Nov 2023 08:33:52 GMT
+Content-Type: text/plain
+X-Frame-Options: DENY
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bW0Y0nu7FwfTzTvEYt5IdRwTmW%2BtpmX%2FkXbZuxV%2BDPrStwJJPoLfW6n1ccrdUNXLgbr%2BQoA%2BFJPU%2Fr6Z2kPsPE3WwjqV5qCdFv1sjTvjUVw8AkSi6fsjCkQmgkw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 827edefc1dda8adc-DEL

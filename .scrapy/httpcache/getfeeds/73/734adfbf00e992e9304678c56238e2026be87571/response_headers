@@ -1,0 +1,28 @@
+Date: Fri, 17 Nov 2023 07:38:51 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 154
+X-Sorting-Hat-Shopid: 25455330
+X-Storefront-Renderer-Rendered: 1
+Location: https://theclashshop.com/
+X-Redirect-Reason: https_required
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none';
+X-Shopid: 25455330
+X-Shardid: 154
+Vary: Accept
+Powered-By: Shopify
+Server-Timing: processing;dur=6, db;dur=3, asn;desc="133676", edge;desc="MAA", country;desc="IN", pageType;desc="index", servedBy;desc="d67j", requestID;desc="1d6e57fc-2b24-454a-a5d7-21b1dfb0fc0d"
+Server-Timing: cfRequestDuration;dur=290.999889
+X-Shopify-Stage: production
+X-Dc: gcp-asia-southeast1,gcp-us-central1,gcp-us-central1
+X-Request-Id: 1d6e57fc-2b24-454a-a5d7-21b1dfb0fc0d
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1LXIVP3%2BfRGIuoP18G%2F8yIa6JJ0ntqL0pl6JZGSwLyiWDsCdEh5X17GR8f1mJVkygmk6XizLhAs0VZz9jEhBaHy2RVcI%2BhY4zQ7h8azvtgcW2uh7BCRCdhQqEUEGvkHUaIWSNJ7GPbAwbSKs9ls%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 827651074efd17b6-MAA
+Alt-Svc: h3=":443"; ma=86400

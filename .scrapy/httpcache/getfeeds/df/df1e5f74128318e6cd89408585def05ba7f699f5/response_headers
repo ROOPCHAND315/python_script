@@ -1,0 +1,26 @@
+Date: Fri, 17 Nov 2023 10:34:34 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Referrer-Policy: origin-when-cross-origin
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Link: <https://www.clashmusic.com/wp-json/>; rel="https://api.w.org/", <https://www.clashmusic.com/wp-json/wp/v2/categories/24743>; rel="alternate"; type="application/json", <https://www.clashmusic.mtcserver.com/win/>; rel="canonical"
+Last-Modified: Fri, 17 Nov 2023 10:26:22 GMT
+Etag: W/"01e7c60e97f163546032b0e4608dba21"
+Cache-Control: max-age=31536000
+Expires: Sat, 16 Nov 2024 10:34:19 GMT
+X-Cache: BYPASS
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ut5c2Pmu0o9m8y8zqfN7mGsy%2B4Jjn1vXGE1yt98afk9kFx64uvLxzreFRUFcZgDZNibHNp%2BIuagN5X4GuKnSE1utqSykCqDbdXtu0b0GGPK9R%2BIyNYHLO1hZCSKV%2B%2BJ5LRYeB6M%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 827752117def5f6f-SIN
+Alt-Svc: h3=":443"; ma=86400

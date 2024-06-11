@@ -1,0 +1,32 @@
+Content-Length: 93
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: script-src 'unsafe-eval' sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com *.tiktokcdn-us.com www.google.com recaptcha.google.com js.hcaptcha.com client-api.arkoselabs.com www.gstatic.com connect.facebook.net;frame-src *.tiktok.com accounts.google.com www.google.com recaptcha.google.com www.facebook.com *.kakao.com lf16-web.tiktokcdn.com assets.braintreegateway.com appleid.apple.com access.line.me api.twitter.com h.online-metrix.net bytedance: newassets.hcaptcha.com client-api.arkoselabs.com;worker-src https: blob:
+Location: https://www.tiktok.com/notfound
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Bytefaas-Execution-Duration: 16.62
+X-Bytefaas-Request-Id: 202311181253310612202611B3A4271B48
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Gw-Dst-Psm: serverless.tiktok.desktop
+X-Powered-By: Goofy Node
+X-Tt-Logid: 202311181253310612202611B3A4271B48
+X-Xss-Protection: 1; mode=block
+X-Tt-Trace-Host: 01a107b9ec56bf55e530ea609d993ee0888a05874038b9eeb6ea2ea3dda0985202f24b60d21ea3eeb0dc0d25fd076d4ebee5e5213b1741b8f8bf4dd36ae73ab28e6b8af3da8f9e86a338173ed61dfe640f38095afbfbefdde09ac98c006adb683a59caddd4bb8a049163379f05d6028ad3
+X-Tt-Trace-Id: 00-2311181253310612202611B3A4271B48-25947C6247172C8F-00
+Server: TLB
+X-Origin-Response-Time: 37,23.44.5.181
+X-Akamai-Request-Id: 22586055.e1d3287
+Expires: Sat, 18 Nov 2023 12:53:32 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 18 Nov 2023 12:53:32 GMT
+X-Cache: TCP_MISS from a23-44-236-149.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+Set-Cookie: tt_csrf_token=PNTVBv5Y-RHSi6HGGZlbtWP4iQ9rrKmD9Fro; path=/; domain=.tiktok.com; samesite=lax; secure; httponly
+X-Cache-Remote: TCP_MISS from a23-44-5-181.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+X-Tt-Trace-Tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=74, origin; dur=37
+Server-Timing: inner; dur=22
+X-Parent-Response-Time: 111,23.44.236.149

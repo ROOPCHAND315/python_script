@@ -1,0 +1,17 @@
+Content-Length: 0
+Date: Mon, 20 Nov 2023 10:59:19 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Location: https://24ora.com/feed/
+X-Redirect-By: WordPress
+Vary: X-Forwarded-Proto
+Last-Modified: Mon, 20 Nov 2023 04:12:29 GMT
+Etag: "d11b239278d2e9ab96bfbb33139284d6"
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+X-Cache: MISS
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=m3TSmu%2BtlvcrOamXxKujkHiTeBEJn6cLvMf6%2B2DSdACbxDGs4AmBR6zQGZUpgHjW2d1%2FTFSi%2FPc4H5JhXnCzmNrv%2BOjK5dd69Mr9iy4RJCkHL5ASlw67x5W%2Bqq4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 82902ece48fe85eb-BOM
+Alt-Svc: h3=":443"; ma=86400

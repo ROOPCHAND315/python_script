@@ -1,0 +1,16 @@
+Date: Fri, 17 Nov 2023 11:31:30 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Last-Modified: Wed, 08 Nov 2023 19:41:15 GMT
+Etag: W/"b4995a9cf4cccfe0f2f75801f96e0d1e"
+Link: <https://www.thealbanian.co.uk/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.thealbanian.co.uk/wp-json/wp/v2/categories/4>; rel="alternate"; type="application/json"
+Vary: User-Agent,User-Agent
+Access-Control-Allow-Origin: *
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EbeM9OTd%2Fs%2FpK%2FJqUP3oKv%2BquCpghJi9OtU5FcJJd8GB%2BNQOHpr4DxLXCrpNUWLXQ51MaEpaXb2zd6u9QK%2FQPePYHbmuhgi1rRHnl2eigeko6gvCL%2F%2FaNdqYGc4tnY7h33JlZGnTE78%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8277a5ce8f193f5f-SIN
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

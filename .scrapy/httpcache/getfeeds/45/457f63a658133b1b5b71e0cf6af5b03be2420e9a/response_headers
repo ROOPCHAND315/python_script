@@ -1,0 +1,14 @@
+Content-Type: text/html; charset=utf-8
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+X-Powered-By: Next.js
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Fri, 17 Nov 2023 07:39:52 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-bom4721-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline';

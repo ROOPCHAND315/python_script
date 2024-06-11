@@ -1,0 +1,14 @@
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 18 Nov 2023 08:56:28 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=604800
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Link: <https://thewalrus.ca/wp-json/>; rel="https://api.w.org/"
+Referrer-Policy: 
+Vary: Accept-Encoding
+X-Varnish: 291992345 293013524
+Age: 7431
+X-Cache: HIT
+X-Powered-By: TheWalrus
+Content-Encoding: gzip

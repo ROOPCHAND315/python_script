@@ -1,0 +1,24 @@
+Content-Length: 30
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Location: /uk/en
+Refresh: 0;url=/uk/en
+Server: Webscale
+Date: Sat, 18 Nov 2023 08:33:42 GMT
+Vary: Accept-Encoding
+Set-Cookie: lagrange_session=49606ca9-caf7-4f19-bb97-92e499b9872d; Path=/; Max-Age=1800; HttpOnly; SameSite=Lax
+Set-Cookie: wcid=r5Frfra2t3P2AAAB; Path=/; Domain=live.corsair.webscale.site; Max-Age=31536000; HttpOnly; SameSite=Lax
+Set-Cookie: Pref_Country=uk; path=/; secure
+Set-Cookie: Pref_Lang=en; path=/; secure
+Set-Cookie: Zip_Code=; path=/
+Set-Cookie: Country_Code=IN; path=/
+Set-Cookie: locale=uk/en; Max-Age=86400; Path=/
+Set-Cookie: visid_incap_1019863=GtDuu84jQguxQ59gDoqXpOZ2WGUAAAAAQUIPAAAAAACFSsxmpUmt7ZLaXA/2xelb; expires=Sat, 16 Nov 2024 16:39:59 GMT; HttpOnly; path=/; Domain=.corsair.com
+Set-Cookie: incap_ses_715_1019863=O+OrIBgogwn98qn5wTHsCeZ2WGUAAAAALRGbtI65PzhxLtmYN3dyDQ==; path=/; Domain=.corsair.com
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+X-Forwarded-For: 103.47.15.250
+X-Cdn: Imperva
+Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: *.onetrust.com cdn.jsdelivr.net *.cloudfront.net www.google.de www.google.it corsair-pdps.smal.de cdn.cookielaw.org cloud.typography.com cdn.shopify.com region1.analytics.google.com code.jquery.com translate.google.com p.typekit.net gstatic.mopinion.com *.amazon.com fonts.wp.com www.google.co.nz www.google.co.za prod-braze.us-w2.cloudhub.io www.google.co.id *.algolianet.com cdns2.gigya.com *.corsair.com monitor.clickcease.com videos.ctfassets.net www.google.com.tw www.google.com.tr google.com www.google.ca x.klarnacdn.net *.ads-twitter.com st-filebanking.igstatic.com *.cloudinary.com analytics.google.com wss://api.smooch.io smartmag.theme-sphere.com *.youtube-nocookie.com cdns.gigya.com www.corsair.com *.zendesk.com cacheorcheck.mopinion.com www.google.com.my static.zdassets.com t.co use.fontawesome.com *.amazon-adsystem.com ob.segreencolumn.com www.ojrq.net www.google.ru www.google.be *.crazyegg.com use.typekit.net jssdkcdns.mparticle.com www.google.com.bd applesocial.s3.amazonaws.com *.gstatic.com gigya.elgato.com www.google.com.ar me.kis.v2.scr.kaspersky-labs.com *.facebook.com assets.ctfassets.net web.3dcommerce.studio www.google.nl www.google.co.il prod.threed.studio api.smooch.io *.tiktok.com jssdks.mparticle.com i.honey-images.com cdns3.gigya.com www.google.com.br www.google.com.mx cdn.honey.io 0c7mhoni2h-dsn.algolia.net www.google.co.th *.twitter.com www.google.co.kr *.sentry.io www.google.co.in www.google.com.au www.google.com.vn www.google-analytics.com uploads-ssl.webflow.com adservice.google.com s0.wp.com *.facebook.net www.youtube.com www.elgato.com www.google.com.ec www.googletagmanager.com js.klarna.com www.google.fr example.com www.google.pt www.google.com www.google.es obs.segreencolumn.com identity.mparticle.com cdnjs.cloudflare.com alb.reddit.com www.google.com.co img.youtube.com *.googleadservices.com i.ytimg.com na-library.klarnaservices.com www.google.no www.google.ie d.impactradius-event.com cdn-3.convertexperiments.com images.ctfassets.net deploy.mopinion.com static-na.payments-amazon.com releases.3dcommerce.studio s3.eu-west-2.amazonaws.com sdk.iad-05.braze.com hello.myfonts.net sdqk.me fonts.mopinion.com youtube.com cdn-4.convertexperiments.com collect.mopinion.com *.doubleclick.net ekr.zdassets.com pixel.wp.com www.clickcease.com www.redditstatic.com fast.fonts.net www.google.co.uk cdns1.gigya.com *.googleapis.com cdn.blerp.com evt-na.klarnaservices.com github.com gc.kis.v2.scr.kaspersky-labs.com 0.s3.envato.com www.google.com.pe undefined www.slant.co ; form-action 'none' ; frame-ancestors 'self' ; report-uri /csp_report
+X-Iinfo: 14-16848984-16848998 SNNN RT(1700296421612 258) q(0 0 0 -1) r(3 3) U24

@@ -1,0 +1,13 @@
+Server: nginx
+Date: Mon, 20 Nov 2023 10:59:40 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=3600
+X-Olaf: ⛄
+Link: <https://wordpress.org/plugins/wp-json/>; rel="https://api.w.org/"
+Link: <https://wordpress.org/plugins/wp-json/wp/v2/plugin/84501>; rel="alternate"; type="application/json"
+Link: <https://wordpress.org/plugins/?p=84501>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+X-Nc: EXPIRED ord 2

@@ -1,0 +1,39 @@
+Date: Fri, 17 Nov 2023 07:38:29 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sorting-Hat-Podid: 154
+X-Sorting-Hat-Shopid: 25455330
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=24e98bf7-f233-4de5-99a9-4665ddfe378e; path=/; expires=Fri, 17 Nov 2023 08:08:29 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Sun, 17 Nov 2024 07:38:29 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=IN; path=/; expires=Sun, 17 Nov 2024 07:38:29 GMT; SameSite=Lax
+Set-Cookie: cart_currency=GBP; path=/; expires=Fri, 01 Dec 2023 07:38:29 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22GB%22%2C%22sale_of_data_region%22%3Afalse%7D; domain=theclashshop.com; path=/; expires=Sat, 18 Nov 2023 07:38:29 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8baff1f3-6ef6-43ef-b70b-a02f7bf00c14; Expires=Sat, 16-Nov-24 07:38:29 GMT; Domain=theclashshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=220e480a-3e0b-4d22-879c-87e6868f3e25; Expires=Fri, 17-Nov-23 08:08:29 GMT; Domain=theclashshop.com; Path=/; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:755229ebb49f40b195958db5db936e1e"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25455330
+X-Shardid: 154
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=16, db;dur=8, asn;desc="133676", edge;desc="BOM", country;desc="IN", theme;desc="7762116641", servedBy;desc="xwh9", requestID;desc="f86a688a-245a-4555-bdf3-2efa95fee0ac"
+Server-Timing: cfRequestDuration;dur=176.999807
+X-Shopify-Stage: production
+X-Dc: gcp-asia-south1,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: f86a688a-245a-4555-bdf3-2efa95fee0ac
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=x7wWHu6sA0MkADeK6dVcARSsWeQxetDrOnKHkQl15A7E3zI79sRI95%2FrbdFZ93Vln%2BkKCCF%2FDIv7OaLuqav9QPhvrxfXV7wJimsG8fz4Fla0yw9AiVSdI%2B4uqeIPxvf%2FG1E%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8276507e1b5d1bd6-BOM
+Alt-Svc: h3=":443"; ma=86400

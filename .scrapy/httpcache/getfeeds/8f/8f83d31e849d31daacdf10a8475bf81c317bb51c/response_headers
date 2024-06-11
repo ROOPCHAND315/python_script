@@ -1,0 +1,12 @@
+Server: nginx
+Date: Mon, 20 Nov 2023 10:59:59 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: accept, content-type
+X-Hacker: Want root?  Visit join.a8c.com/hacker and mention this header.
+Host-Header: WordPress.com
+X-Frame-Options: SAMEORIGIN
+X-Nc: HIT dca 30
+Content-Encoding: gzip
+X-Ac: 1.bom _dca EXPIRED
+Strict-Transport-Security: max-age=31536000

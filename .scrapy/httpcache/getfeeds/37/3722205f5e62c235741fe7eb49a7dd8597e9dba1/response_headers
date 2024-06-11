@@ -1,0 +1,21 @@
+Date: Tue, 21 Nov 2023 10:00:30 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Powered-By: WP Engine
+Link: <https://www.anguscountyworld.co.uk/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.anguscountyworld.co.uk/wp-json/wp/v2/categories/209>; rel="alternate"; type="application/json"
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 4
+X-Cache-Group: normal
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=J3wly8koi6juHUoWqq6sRvrOl.3LXA6JPVnJuAm5HUU-1700560830-0-AfempYywgS+vC4lGzQfmBzfOObhm+cjWqs+XyTErR2G8+u4nxCz5BJHJQZOo+FduT4KrFlpY3ZDCajfQYq5ExCM=; path=/; expires=Tue, 21-Nov-23 10:30:30 GMT; domain=.www.anguscountyworld.co.uk; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 829816046b46f2c6-BOM
+Alt-Svc: h3=":443"; ma=86400

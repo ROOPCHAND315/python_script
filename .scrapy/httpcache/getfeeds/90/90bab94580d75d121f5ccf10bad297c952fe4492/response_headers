@@ -1,0 +1,17 @@
+Content-Length: 406
+Retry-After: 0
+Set-Cookie: rdt=2286098305d27cf0e6a7401c3e731206; path=/; domain=.reddit.com; samesite=none; secure;
+Set-Cookie: edgebucket=RbBSxAT6jCnv5jfNzx; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+Location: /user/gigaom/?rdt=44894
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Sat, 18 Nov 2023 12:53:28 GMT
+Via: 1.1 varnish
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Cache-Control: private, max-age=3600
+Server: snooserv
+Report-To: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+Nel: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}

@@ -1,0 +1,28 @@
+Content-Type: text/html; charset=utf-8
+X-Tt-Logid: 2023111808563490B1CE823ECBD72AE5B5
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+Content-Security-Policy: frame-ancestors self *.bytedance.net *.tiktok.com *.tiktok.tc;worker-src https 'self';report-uri https://mon-va.byteoversea.com/log/sentry/v2/api/slardar/main/?ev_type=csp&bid=tiktok_web_article
+Content-Security-Policy-Report-Only: frame-ancestors self *.bytedance.net *.tiktok.com *.tiktok.tc;default-src 'self' data: blob: *.tiktokcdn.com *.tiktokcdn-us.com *.akamaized.net *.muscdn.com *.tiktok.com *.byteoversea.com *.ibytedtos.com;connect-src *.ibytedtos.com *.bytedanceapi.com *.tiktokv.com *.snssdk.com *.tiktok.com *.byteoversea.com *.tiktokcdn.com *.tiktokcdn-us.com *.hypstarcdn.com *.bytedance.net cdn.ampproject.org *.googletagmanager.com *.bytedapm.com sf16-website-login.neutral.ttwstatic.com;worker-src https 'self';script-src 'unsafe-eval' *.tiktokcdn-us.com *.googleapis.com sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com;style-src 'unsafe-inline' *.tiktokcdn.com *.tiktokcdn-us.com *.muscdn.com *.akamaized.net *.ibytedtos.com *.tiktok.com *.ibyteimg.com *.googleapis.com;img-src data: blob: *.muscdn.com *.akamaized.net *.tiktokcdn.com *.tiktokcdn-us.com *.ibytedtos.com *.ibyteimg.com *.tiktok.com *.hypstarcdn.com *.facebook.com *.byted.org *.googletagmanager.com sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com;frame-src *.tiktok.com;media-src *.tiktokcdn.com *.tiktokcdn-us.com *.akamaized.net *.muscdn.com *.ibytedtos.com *.byted.org *.tiktok.com;font-src *.gstatic.com *.ibytedtos.com *.tiktokcdn.com *.tiktokcdn-us.com sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com;report-uri https://mon-va.byteoversea.com/log/sentry/v2/api/slardar/main/?ev_type=csp&bid=tiktok_web_article
+X-Pumbaa-Web-Avail: 1
+X-Tt-Trace-Host: 01a107b9ec56bf55e530ea609d993ee088b6695ab8a05504244bc009f09c81148a0cebdf5a7e029d560243deb1c43fa3c1add527eee506fafd8d147857ba4cdf7812664bada1707da7485fdb8584eac59222e928738a63fa78fa988efcd81fa597ae49ced5dcb6d216cd317c00cdb9acfa
+X-Tt-Trace-Id: 00-23111808563490B1CE823ECBD72AE5B5-545F1693590CFEB1-00
+Server: TLB
+Content-Encoding: gzip
+X-Origin-Response-Time: 57,23.59.80.47
+X-Akamai-Request-Id: 87665968.19cdd115
+Expires: Sat, 18 Nov 2023 08:56:35 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 18 Nov 2023 08:56:35 GMT
+X-Cache: TCP_MISS from a23-63-111-61.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-59-80-47.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+X-Tt-Trace-Tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=69, origin; dur=57
+Server-Timing: inner; dur=36
+X-Parent-Response-Time: 126,23.63.111.61

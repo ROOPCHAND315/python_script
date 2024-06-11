@@ -1,0 +1,15 @@
+Content-Length: 55723
+X-Powered-By: PHP/8.0.28
+Content-Type: text/html; charset=UTF-8
+X-Pingback: https://bollywoodnewsworld.com/xmlrpc.php
+Link: <https://bollywoodnewsworld.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://bollywoodnewsworld.com/wp-json/wp/v2/posts/376>; rel="alternate"; type="application/json"
+Link: <https://bollywoodnewsworld.com/?p=376>; rel=shortlink
+Etag: "169-1699894118;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Sat, 18 Nov 2023 12:34:58 GMT
+Server: LiteSpeed
+Platform: hostinger
+Content-Security-Policy: upgrade-insecure-requests

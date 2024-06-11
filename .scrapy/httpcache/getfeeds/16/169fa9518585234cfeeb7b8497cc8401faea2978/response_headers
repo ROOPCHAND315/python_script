@@ -1,0 +1,15 @@
+Content-Length: 3502
+Date: Mon, 20 Nov 2023 10:59:59 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Link: <https://24ora.com/wp-json/>; rel="https://api.w.org/", <https://24ora.com/wp-json/wp/v2/categories/32>; rel="alternate"; type="application/json", <https://24ora.com/category/entretenimento/>; rel="canonical"
+Vary: X-Forwarded-Proto,Accept-Encoding
+Last-Modified: Mon, 20 Nov 2023 04:12:29 GMT
+Etag: "d11b239278d2e9ab96bfbb33139284d6-gzip"
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pD8x7lrgGLex2SKzeYLH5gG3ynTT0yXTjrECZly9ABUoume8MVXW7LLHUAuUnK7uTiLiwdBx1E3x6r4hKw4pchbPmi15bOYu%2Bv1zbOS4OQALZumFygBKbuhwVMI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 82902fc07e3a85eb-BOM
+Alt-Svc: h3=":443"; ma=86400

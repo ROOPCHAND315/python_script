@@ -1,0 +1,40 @@
+Date: Sat, 18 Nov 2023 08:56:26 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 57
+X-Sorting-Hat-Shopid: 16447
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a7bfe5c9-83ce-430f-ad9e-3a18abd0f5a0; path=/; expires=Sat, 18 Nov 2023 09:26:25 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 18 Nov 2024 08:56:25 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=IN; path=/; expires=Mon, 18 Nov 2024 08:56:25 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22CA%22%2C%22sale_of_data_region%22%3Afalse%7D; domain=walrusmagazine.com; path=/; expires=Sun, 19 Nov 2023 08:56:25 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=87cf49cf-fcb0-4128-b1d3-387f95e20526; Expires=Sun, 17-Nov-24 08:56:26 GMT; Domain=walrusmagazine.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=4f530925-3f3b-446e-be5a-328ca40a4be2; Expires=Sat, 18-Nov-23 09:26:26 GMT; Domain=walrusmagazine.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fthewalrus.ca%2F; Expires=Sat, 02-Dec-23 08:56:26 GMT; Domain=walrusmagazine.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Sat, 02-Dec-23 08:56:26 GMT; Domain=walrusmagazine.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:5cbb8ac190a67470d4b0aadf64ed5096"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 16447
+X-Shardid: 57
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=137;desc="gc:45", db;dur=50, parse;dur=4, render;dur=39, asn;desc="133676", edge;desc="BOM", country;desc="IN", theme;desc="44679594042", pageType;desc="index", servedBy;desc="v2x8", requestID;desc="94ee80f7-2ce9-46ce-a859-05ab2cba7140"
+Server-Timing: cfRequestDuration;dur=277.999878
+X-Shopify-Stage: production
+X-Dc: gcp-asia-south1,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 94ee80f7-2ce9-46ce-a859-05ab2cba7140
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yJ%2FgR9VidQ38MI34HIwW2FJWv8B7HwjNjYC8os6Q5qxk1HGLJwW3d8Ecli9Kqkrh93amG1TmqDRRwn%2Fwq2KhPec8Lj7zLELq0EoRX7iZ5YnXM1cWkza5nZAngpEgQjAvKRDgDvdJpAM7LQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 827f0008c8ae2e65-BOM
+Alt-Svc: h3=":443"; ma=86400

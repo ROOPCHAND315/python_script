@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 20 Nov 2023 11:13:03 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: x-ua-device, Accept-Language
+X-Rid: f0062cb5462ab8af54ea9de5a8829072
+Content-Security-Policy: script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.recaptcha.net/recaptcha/api.js https://c0.pubmine.com https://s.pubmine.com https://criteo.com https://*.criteo.com https://criteo.net https://*.criteo.net https://*.vexowi.com https://vexowi.com https://c.amazon-adsystem.com https://*.3lift.com https://3lift.com https://z.moatads.com https://*.moatads.com https://*.smartadserver.com https://app.link https://*.sascdn.com https://securepubads.g.doubleclick.net https://tpc.googlesyndication.com https://www.googletagservices.com/ https://cdn.parsely.com https://a.teads.tv/analytics/tag.js https://assets.tumblr.com https://ads.pubmatic.com https://cdn.jsdelivr.net https://*.privacymanager.io https://*.rlcdn.com https://s3-us-west-2.amazonaws.com/sftemp/sf_v1.0.1/ https://assets.tumblr.com/pop/ 'nonce-OTBkNWRkNjFhNDA1ZTZlMTJhYzQ3Y2U4MmM3MjkyZTI='; report-uri /svc/cspreports; object-src 'none'; worker-src blob: 'self'; base-uri 'self'
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: deny
+Cache-Control: no-cache
+Etag: W/"661df-4b9tz/iHfcUeWnAqTKhDrpcPOXw"
+X-Response-Time: 245ms
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; preload
+X-Nc: bom 2

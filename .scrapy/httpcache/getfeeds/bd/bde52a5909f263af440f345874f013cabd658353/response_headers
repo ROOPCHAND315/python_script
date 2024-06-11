@@ -1,0 +1,13 @@
+Server: envoy
+Date: Sat, 18 Nov 2023 08:30:10 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding,Accept-Encoding
+Set-Cookie: sp_t=d2c6c54414821ebecd3c3480bd0ad7fb; path=/; expires=Sun, 17 Nov 2024 08:30:10 GMT; domain=.spotify.com; samesite=none; secure
+Set-Cookie: sp_landing=https%3A%2F%2Fopen.spotify.com%2Fshow%2F4VcDoydscYrxTaljSXzFzM%3Fsp_cid%3Dd2c6c54414821ebecd3c3480bd0ad7fb%26device%3Ddesktop%26si%3Dd5104640c9dc46ea; path=/; expires=Sun, 19 Nov 2023 08:30:10 GMT; domain=.spotify.com; samesite=none; secure; httponly
+Content-Security-Policy: script-src 'self' 'unsafe-eval' blob: open.spotifycdn.com open-review.spotifycdn.com quicksilver.scdn.co www.google-analytics.com www.googletagmanager.com static.ads-twitter.com analytics.twitter.com s.pinimg.com sc-static.net https://www.google.com/recaptcha/ cdn.ravenjs.com connect.facebook.net www.gstatic.com sb.scorecardresearch.com pixel-static.spotify.com cdn.cookielaw.org geolocation.onetrust.com www.googleoptimize.com www.fastly-insights.com static.hotjar.com script.hotjar.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googleadservices.com/pagead/conversion/ https://analytics.tiktok.com/i18n/pixel/sdk.js https://analytics.tiktok.com/i18n/pixel/identify.js https://analytics.tiktok.com/i18n/pixel/config.js https://www.redditstatic.com/ads/pixel.js https://t.contentsquare.net/uxa/22f14577e19f3.js cdn.speedcurve.com 'sha256-WfsTi7oVogdF9vq5d14s2birjvCglqWF842fyHhzoNw=' 'sha256-KRzjHxCdT8icNaDOqPBdY0AlKiIh5F8r4bnbe1PQwss=' 'sha256-Z5wh7XXSBR1+mTxLSPFhywCZJt77+uP1GikAgPIsu2s='; frame-ancestors 'self';
+Content-Encoding: gzip
+X-Envoy-Upstream-Service-Time: 107
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Via: HTTP/1.1 fringe, HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

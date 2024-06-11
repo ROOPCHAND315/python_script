@@ -1,0 +1,11 @@
+Server: nginx
+Date: Mon, 20 Nov 2023 11:00:06 GMT
+Content-Type: text/html; charset=utf-8
+X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+Host-Header: WordPress.com
+X-Frame-Options: SAMEORIGIN
+X-Redirect-By: WordPress
+Location: https://wordpress.com/discover-wordpress/feed/
+X-Nc: HIT dca 56
+X-Ac: 1.bom _dca BYPASS
+Strict-Transport-Security: max-age=31536000

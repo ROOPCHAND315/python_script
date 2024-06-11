@@ -1,0 +1,2 @@
+Requirement already satisfied: zope.interface in /home/roopchand/.local/lib/python3.8/site-packages (6.1)
+Requirement already satisfied: setuptools in /usr/lib/python3/dist-packages (from zope.interface) (45.2.0)

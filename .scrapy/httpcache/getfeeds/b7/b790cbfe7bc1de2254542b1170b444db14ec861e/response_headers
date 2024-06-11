@@ -1,0 +1,37 @@
+Content-Length: 188
+Date: Sat, 18 Nov 2023 08:22:51 GMT
+Server: Optimal CDN
+Content-Type: text/plain; charset=UTF-8
+Access-Control-Allow-Methods: *
+Last-Modified: Thu, 10 Aug 2023 22:04:35 GMT
+X-Sacs-Edtsite: imagendelgolfo.mx
+X-Storage: RAM
+X-Backend: www_imagendelgolfo_mx_ssl
+X-Connection: keep-alive
+Cache-Control: public,max-age=0
+Strict-Transport-Security: max-age=31536000
+Expires: Sun, 17 Nov 2024 08:22:51 GMT
+Etag: W/"f85632a6d6cbd91:0"
+Content-Encoding: gzip
+Age: 0
+X-Cache-Hits: 0
+X-Cache: MISS
+X-Powered-By: SACSPro
+X-Host: www.imagendelgolfo.mx
+X-Ua: default
+X-Ua-Device: desktop
+Vary: X-UA,X-UA-Device,X-Forwarded-Proto,X-Country-Code
+X-Forwarded-For: 103.47.15.250
+X-Real-Ip: 103.47.15.250
+X-Tmp-Ip: 
+X-Waf: 
+X-Source-Ip: 
+X-Country-Code: -
+X-City: -
+X-Apache: Yes
+X-Url: /robots.txt
+X-Node: node02.losangeles
+X-Balancer: lb02.losangeles
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, X-Requested-With, Authorization
+Accept-Ranges: bytes

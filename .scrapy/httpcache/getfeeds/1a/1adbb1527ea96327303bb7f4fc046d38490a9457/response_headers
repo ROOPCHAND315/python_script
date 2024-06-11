@@ -1,0 +1,15 @@
+Content-Length: 3314
+Date: Mon, 20 Nov 2023 11:32:41 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Link: <https://24ora.com/wp-json/>; rel="https://api.w.org/", <https://24ora.com/wp-json/wp/v2/categories/34>; rel="alternate"; type="application/json", <https://24ora.com/category/local/economia/>; rel="canonical"
+Vary: X-Forwarded-Proto,Accept-Encoding
+Last-Modified: Mon, 20 Nov 2023 11:00:00 GMT
+Etag: "f2c9d4afd2d1071fb438c20407e9b033-gzip"
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zOskcYRKB1nPJYdlpJlyG94048HankFftmsXZKG9YZfGbQJbjlsqGqXQzX5xGnYUmMHf68Qphy%2FcdlsAT0Ijv7lFSN80dz3Yv2WUJutrAMnPrmS6SypsQCw%2FEOw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 82905fa44d078531-BOM
+Alt-Svc: h3=":443"; ma=86400

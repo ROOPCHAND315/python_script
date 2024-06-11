@@ -1,0 +1,20 @@
+Date: Sat, 18 Nov 2023 08:30:36 GMT
+Content-Type: application/rss+xml; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Cf-Edge-Cache: cache,platform=wordpress
+Last-Modified: Sat, 18 Nov 2023 06:17:33 GMT
+Etag: W/"76ecb31583ba3f5b330ed7f3cdaf1b7a"
+P3P: CP="Gigaom has a Privacy Policy available at http://gigaom.com/privacy-policy/"
+X-Pickusinstead: Cool company, cooler headers, join the team! Send an email to jobs@gigaom.com and mention this header.
+Link: <https://gigaom.com/blog/>; rel="canonical"
+X-Cacheable: CacheAlways: feed
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 6
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=dN.mqnekqISS77W2M35Gdl4mrdjLp4kOMKclmzEPfQs-1700296236-0-AUJp7tjhCzEhFCoUoTxnrxuqJvrbgYoL/2HNh/RYPE0MKvFOGa28Y+5WWKMoVHY62zfc8CYHNj1BONhPJCEKZls=; path=/; expires=Sat, 18-Nov-23 09:00:36 GMT; domain=.gigaom.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Cf-Ray: 827eda315ae08aee-DEL
+Alt-Svc: h3=":443"; ma=86400

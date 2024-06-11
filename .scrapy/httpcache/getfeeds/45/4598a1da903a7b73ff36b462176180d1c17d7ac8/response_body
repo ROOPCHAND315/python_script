@@ -1,0 +1,189 @@
+<html lang="en">
+   <head>
+      <title>The Walrus</title>
+      <base href="/">
+      <meta http-equiv="cache-control" content="max-age=300" />
+      <meta http-equiv="cache-control" content="no-store" />
+      <meta http-equiv="expires" content="-1" />
+      <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+      <meta http-equiv="pragma" content="no-cache" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="facebook-domain-verification" content=''>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta name="description" content="Subscribe today to enjoy your special offer!">
+      <meta name="keywords" content="">
+      <script src="https://cdn.cookielaw.org/opt-out/iabCcpaIntegrationScript-noGAM.js" type="text/javascript" charset="UTF-8" ccpa-opt-out-ids="C0004" ccpa-opt-out-geo="ca" ccpa-opt-out-lspa="true"></script>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+      <style>.async-hide { opacity: 0 !important} </style>
+
+
+      <script>
+         (function() {
+             if (typeof NodeList.prototype.forEach === "function")
+                 return false;
+             else
+                 NodeList.prototype.forEach = Array.prototype.forEach;
+         })();
+      </script>
+      <link href="https://fonts.googleapis.com/css?family=Merriweather|PT+Serif" rel="stylesheet">
+      <script src="https://js.stripe.com/v3/"></script><script src="https://js.recurly.com/v4/recurly.js"></script>
+      <script src="https://flex.cybersource.com/cybersource/assets/microform/0.11/flex-microform.min.js"></script>
+      <link href="https://js.recurly.com/v4/recurly.css" rel="stylesheet" type="text/css">
+      <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc5Hh4iAAAAAJ5ViZCh47wBKZsZecYGplGTb4qu"></script>
+      
+        
+      <!-- Google Tag Manager -->
+      <script>
+         var currentLocation = window.location;
+         var gaProfileId = '308254552';
+         var fbPixelPageview = '308254552';
+         var gtm_id = 'GTM-NMHJVDG';
+         var gFour_id = 'G-9Z398R136K';
+         var XandrPixelPageview = '';
+         var XandrPixelConversion = '';
+         var EmailHash = '';
+         var Pinterest = '';
+         var GoogleAds = '';
+         var GoogleAdsLabel  = '';
+         var bing_id = '';
+         var klaviyo = '';
+         var tiktokpixel = '';
+         var googleoptimize = '';
+         var head_title = "The Walrus";
+         var head_description = 'Subscribe today to enjoy your special offer!';
+         var head_keywords = '';
+
+         var dataLayer = []; 
+         dataLayer.push({
+            'fbPixelPageview': '308254552',
+            'gaProfileId': '308254552',
+            'gtm_id': 'GTM-NMHJVDG',
+            'gFour_id':'G-9Z398R136K',
+            'XandrPixelPageview': '',
+            'XandrPixelConversion': '',
+            'EmailHash': '',
+            'Pinterest': '',
+            'GoogleAds': '',
+            'GoogleAdsLabel': '',
+            'bing_id': '',
+            'klaviyo': '',
+            'tikTokPixel': '',
+            'googleoptimize': '',
+            'head_title': "The Walrus",
+            'head_description': 'Subscribe today to enjoy your special offer!',
+            'head_keywords': ''
+         });
+
+         if ('' != '' && 'GTM-NMHJVDG' != '') {
+            (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+            })(window,document.documentElement,'async-hide','dataLayer',4000,
+            {'':true});
+         }
+
+         (function(w,d,s,l,i,n,g){w[l]=w[l]||[];w[l].push({'gtm.start':
+         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+         })(window,document,'script','dataLayer','GTM-NMHJVDG');
+      </script><!-- End Google Tag Manager -->
+      <script>
+         (function(p,l,o,w,i,n,g){
+            if(!p[i]){
+               p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+               p.GlobalSnowplowNamespace.push(i);
+               p[i]=function(){
+                  (p[i].q=p[i].q||[]).push(arguments)
+               };
+               p[i].q=p[i].q||[];
+               n=l.createElement(o);
+               g=l.getElementsByTagName(o)[0];
+               n.async=1;
+               n.src=w;
+               g.parentNode.insertBefore(n,g)
+            }
+         })(window,document,"script","https://snowplowjs.darwin.cx/3.1.4/jt4gnhkl.js","snowplow");
+
+         snowplow('newTracker', 'sp', 'https://sp-collector-lb.darwin.cx', {
+            appId: 'dcxshop',
+            contexts: {
+               webPage: true,
+               performanceTiming: true,
+               ecommerce: true 
+            }
+         });
+
+         snowplow('enableActivityTracking',{ 
+            minimumVisitLength: 10, 
+            heartbeatDelay: 10 
+         });
+
+         snowplow('trackPageView');
+         snowplow('enableLinkClickTracking');
+      </script>
+
+      <style>
+         .react-tel-input {
+            margin-top: 15px;
+         }
+         .react-tel-input .selected-flag {
+            display: none;
+         }
+         .react-tel-input input {
+            width: 100% !important;
+            padding-left: 0px !important;
+            font-size: 15px!important;
+            border: 2px solid #CED4DA!important;
+            color: inherit;
+            border-radius: 0!important;
+            height: auto!important;
+            padding: .375rem .75rem!important;
+         }
+      </style>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDbQ58NkVKa_-jpvAfGH9BVIcsk_PJSlvs&libraries=places"></script>
+      <link href="/styles/app.4fee0f3c427191f38a0cef9207a8bc0a.css" rel="stylesheet">
+   </head>
+   <body>
+      <noscript>
+         <div>
+            <h2>This site requires a JavaScript enabled browser.</h2>
+            <h3>We're sorry but your browser may need to be updated to use this site.</h3>
+            <p>
+               <a href="https://www.whatismybrowser.com/detect/is-javascript-enabled">
+                  <div>Test whether JavaScript is enabled<img src="./question_balloon.png"></div>
+               </a>
+            </p>
+            <p>This page works best on the Javascript enabled versions of the browsers listed below.</p>
+            <p>Subscribe today to enjoy your special offer!</p>
+            <p>Internet Explorer 11 on Windows 7/8 is not supported due to security concerns. Please consider installing one of the browsers below.</p>
+            <ul>
+               <li>
+                  <a href="https://www.firefox.com">
+                     <img src="./firefox_64x64.png">
+                     <div>Mozilla Firefox</div>
+                  </a>
+               </li>
+               <li>
+                  <a href="https://www.google.com/chrome">
+                     <img src="./chrome_64x64.png">
+                     <div>Google Chrome</div>
+                  </a>
+               </li>
+               <li>
+                  <a href="https://www.opera.com/">
+                     <img src="./opera_64x64.png">
+                     <div>Opera</div>
+                  </a>
+               </li>
+            </ul>
+         </div>
+      </noscript>
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+      <div id="root" style="height: 100%"></div> 
+      <script type="text/javascript" src="vendor.83d6687272ac8538232f.js"></script><script type="text/javascript" src="app.d4c85f6124b474968fea.js"></script>
+   </body>
+</html>

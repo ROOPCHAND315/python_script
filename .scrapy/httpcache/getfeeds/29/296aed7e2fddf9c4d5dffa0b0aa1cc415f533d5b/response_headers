@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset=utf-8
+Cache-Control: max-age=0, private, must-revalidate
+Content-Encoding: gzip
+Etag: W/"7365058e9143cf29cf35ff2ddd052296"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 55ad0db3d6753b30b0c210095ea8bd23c39464105a231c1d44e32c92e08e359f
+X-Runtime: 0.005164
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Date: Fri, 17 Nov 2023 11:31:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21732-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1700220690.819703,VS0,VE268
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Set-Cookie: scribd_ubtc=u%3De8dff55e-9459-4850-be5b-8c44d642a13c%26h%3DnXFlRbq5xgRzBo0ZrqXKaVOAgtJkyf6J7WziSVho4rk%3D; Domain=.scribd.com; Path=/; Expires=Sun, 24 Oct 2123 11:31:30 GMT; SameSite=None; Secure
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

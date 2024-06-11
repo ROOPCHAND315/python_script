@@ -1,0 +1,18 @@
+Content-Length: 48015
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 18 Nov 2023 08:56:25 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=604800
+Link: <https://thewalrus.ca/wp-json/>; rel="https://api.w.org/"
+Link: <https://thewalrus.ca/wp-json/wp/v2/posts/159771>; rel="alternate"; type="application/json"
+Link: <https://thewalrus.ca/?p=159771>; rel=shortlink
+Cache-Control: max-age=3600
+Expires: Sat, 18 Nov 2023 07:23:00 GMT
+Content-Encoding: gzip
+Referrer-Policy: 
+Vary: Accept-Encoding
+X-Varnish: 291992317 291879028
+Age: 9204
+X-Cache: HIT
+X-Powered-By: TheWalrus
+Accept-Ranges: bytes

@@ -1,0 +1,16 @@
+Content-Length: 342
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+X-Content-Type-Options: nosniff
+Server: sffe
+X-Xss-Protection: 0
+Date: Sat, 18 Nov 2023 08:30:09 GMT
+Expires: Sat, 18 Nov 2023 08:30:09 GMT
+Cache-Control: public, max-age=0
+Last-Modified: Tue, 13 Jun 2023 21:38:00 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Age: 1
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

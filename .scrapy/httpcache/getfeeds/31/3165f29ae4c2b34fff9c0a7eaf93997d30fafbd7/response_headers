@@ -1,0 +1,41 @@
+Date: Fri, 17 Nov 2023 07:39:43 GMT
+Content-Type: text/html; charset=utf-8
+X-Sorting-Hat-Podid: 154
+X-Sorting-Hat-Shopid: 25455330
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: keep_alive=a6999c59-cb13-4faf-beae-c6d55a79a83e; path=/; expires=Fri, 17 Nov 2023 08:09:43 GMT; HttpOnly; SameSite=Lax
+Set-Cookie: secure_customer_sig=; path=/; expires=Sun, 17 Nov 2024 07:39:43 GMT; secure; HttpOnly; SameSite=Lax
+Set-Cookie: localization=IN; path=/; expires=Sun, 17 Nov 2024 07:39:43 GMT; SameSite=Lax
+Set-Cookie: cart_currency=GBP; path=/; expires=Fri, 01 Dec 2023 07:39:43 GMT; SameSite=Lax
+Set-Cookie: _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22GB%22%2C%22sale_of_data_region%22%3Afalse%7D; domain=theclashshop.com; path=/; expires=Sat, 18 Nov 2023 07:39:43 GMT; SameSite=Lax
+Set-Cookie: _shopify_y=8baff1f3-6ef6-43ef-b70b-a02f7bf00c14; Expires=Sat, 16-Nov-24 07:39:43 GMT; Domain=theclashshop.com; Path=/; SameSite=Lax
+Set-Cookie: _shopify_s=220e480a-3e0b-4d22-879c-87e6868f3e25; Expires=Fri, 17-Nov-23 08:09:43 GMT; Domain=theclashshop.com; Path=/; SameSite=Lax
+Set-Cookie: _orig_referrer=https%3A%2F%2Fwww.clashmusic.com%2F; Expires=Fri, 01-Dec-23 07:39:43 GMT; Domain=theclashshop.com; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: _landing_page=%2F; Expires=Fri, 01-Dec-23 07:39:43 GMT; Domain=theclashshop.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Etag: "cacheable:5409f2637c0e761ec313f82093831328"
+Content-Encoding: gzip
+X-Cache: miss
+X-Frame-Options: DENY
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+X-Shopid: 25455330
+X-Shardid: 154
+Vary: Accept
+Content-Language: en
+Powered-By: Shopify
+Server-Timing: processing;dur=82, db;dur=32, parse;dur=4, render;dur=24, wasm, asn;desc="133676", edge;desc="BOM", country;desc="IN", theme;desc="7762116641", pageType;desc="index", servedBy;desc="xwh9", requestID;desc="5de9292f-a83a-4644-87f4-3e4a415656b1"
+Server-Timing: cfRequestDuration;dur=240.000010
+X-Shopify-Stage: production
+X-Dc: gcp-asia-south1,gcp-europe-west1,gcp-europe-west1
+X-Request-Id: 5de9292f-a83a-4644-87f4-3e4a415656b1
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pbZkWmanq8MEsw0ryuv9SBlm%2FNW9aCWj32pqG5sMlyfucUnDSgRVftrp%2BYVHOeptDSKkVtaocmHD5Sl48u3NZFWSDdLW3tEMmAX%2FgI6PabeBm5CroLmv4x4Fff3dA8iHkho%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8276524c0a511bd6-BOM
+Alt-Svc: h3=":443"; ma=86400

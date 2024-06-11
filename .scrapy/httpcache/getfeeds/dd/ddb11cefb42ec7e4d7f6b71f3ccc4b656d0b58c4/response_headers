@@ -1,0 +1,12 @@
+Server: envoy
+Date: Sat, 18 Nov 2023 08:30:09 GMT
+Content-Type: text/plain
+Last-Modified: Sat, 18 Nov 2023 06:12:56 GMT
+Vary: Accept-Encoding
+Etag: W/"655855e8-a6"
+Content-Encoding: gzip
+X-Envoy-Upstream-Service-Time: 1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Via: HTTP/1.1 fringe, HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
