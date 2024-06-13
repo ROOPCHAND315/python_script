@@ -15,8 +15,7 @@ import mysql.connector
 class Auto_Domain_Source():
     def __init__(self):
         self.LOCAL_USERNAME='roop'
-        self.LOCAL_PASSWORD=''
-  
+        self.LOCAL_PASSWORD='roop@12345'
         self.type='local'                #mention here dashboard (live or local)
         self.for_sorce=True          #mention True for source and False for Doamin and xpath
         self.options=webdriver.ChromeOptions()

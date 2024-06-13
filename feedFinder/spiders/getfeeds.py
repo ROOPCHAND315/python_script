@@ -5,17 +5,27 @@ from scrapy.linkextractors import LinkExtractor
 from urllib.parse import urljoin, urlparse
 from scrapy.selector.unified import Selector
 from xlsxwriter import Workbook
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 # from scrapy.crawler import CrawlerProcess
 # from scrapy.utils.project import get_project_settings
 # from twisted.internet.error import DNSLookupError, TimeoutError, TCPTimedOutError
 # from scrapy.spidermiddlewares.httperror import HttpError
 # from scrapy.utils.python import global_object_name
+import logging
 import tldextract
 from feedFinder.settings import WEBSHARE_URL
-
+import time
 # import sys
 # sys.set_coroutine_origin_tracking_depth(2000)
 import twisted.internet.error
+logging.getLogger('selenium').setLevel(logging.WARNING)
+logging.getLogger('urllib3').setLevel(logging.WARNING)
 
 
 class GetfeedsSpider(scrapy.Spider):
@@ -58,6 +68,9 @@ class GetfeedsSpider(scrapy.Spider):
         self.all_feed_link=[]
         self.domain_data=[]
         self.headers = {}  
+        # self.options=webdriver.ChromeOptions()
+        # self.options.add_argument('--headless')
+        # self.driver=webdriver.Chrome(options=self.options)
     def start_requests(self):
         domain_urls=self.domain_df['Domain'].tolist()
         self.source=[]
@@ -92,8 +105,18 @@ class GetfeedsSpider(scrapy.Spider):
             description = "Description not available"
         if title is None or len(title) == 0:
             title="title not available"
+
+        # try:    
+        #     self.driver.get('https://tranco-list.eu/query')
+        #     Domain_name=response.url.replace('https://', '').replace('http://', '').replace('www.','')
+        #     if Domain_name.endswith('/'):
+        #         Domain_name.replace('/','')
+        #     priority=self.driver.find_element("xpath","//input[@id='domainInput']")   
+        #     priority.send_keys(Domain_name)
+        # except Exception as err:
+        #     print(f"Priority error {err}")    
         name=response.url.replace('https://', '').replace('http://', '').replace('.com', '').replace('/', '').replace('www.','').replace('.',' ').replace(' ','_')
-        domain_entry = {'Domain_name':name,'Domain': domain_url,'Display_name':title,'Priority':100,'Description':description, 'source': []}
+        domain_entry = {'Domain_name':name,'Domain': domain_url,'Display_name':title,'Description':description, 'source': []}
         # print(f"[red]     name: {name},    title: {title},    Discription: {description}")            69
         home_rssfeed = response.xpath('//link[@rel="alternate" and @type="application/rss+xml"]/@href').extract()
         if home_rssfeed:
@@ -199,10 +222,54 @@ class GetfeedsSpider(scrapy.Spider):
             self.domain_data[0]['source']=data 
             df = pd.DataFrame(self.domain_data)
             df = df.explode('source')
-            df = df[['Domain_name','Domain', 'Display_name', 'Priority', 'Description', 'source']]
-            print(f"domain_feed {df}")
+            df = df[['Domain_name','Domain', 'Display_name', 'Description', 'source']]
+            domain=df['Domain'].to_list()
+            def extract_domain(url):
+                parsed_url = urlparse(url)
+                domain = parsed_url.netloc
+                if domain.startswith('www.'):
+                    domain = domain[4:]
+                return domain
+            n=len(domain)
+            try:
+                # Domain_name = str(domain[1]).replace('https://', '').replace('http://', '').replace('www.', '').replace('/', '')
+                filtered_domain = extract_domain(str(domain[1]))
+                print(f"Processed domain name: {filtered_domain}")
+                # Initialize WebDriver (Ensure the driver executable is in your PATH)
+                options = webdriver.ChromeOptions()
+                options.add_argument('--headless')
+                service = Service()
+                service.log_path = "/dev/null"
+                driver = webdriver.Chrome(service=service,options=options)
+                driver.get('https://tranco-list.eu/query')
+
+                # Use explicit waits to handle timing issues
+                wait = WebDriverWait(driver, 10)
+
+                priority = wait.until(EC.presence_of_element_located((By.XPATH, "//input[@id='domainInput']")))
+                priority.send_keys(filtered_domain)
+                search = driver.find_element(By.XPATH, "//button[@id='getRanks']")
+                search.click()
+                time.sleep(5)
+                # Wait until the result appears
+                result = wait.until(EC.presence_of_element_located((By.XPATH, "//span[@id='rank']")))
+                domain_priority = result.text
+                print(f"Domain priority: {domain_priority}")
+                # time.sleep(5)
+                # Ensure 'n' and 'df' are defined and pri_list is correctly formed
+                pri_list = [domain_priority] * n
+                df.insert(3, 'Priority', pd.Series(pri_list))
+
+            except Exception as err:
+                print(f"Priority error: {err}")
+            finally:
+                driver.quit()
+
+                print(f"Updated DataFrame: {df}") 
+          
 
             # Write the DataFrame to an Excel file
+            
             with pd.ExcelWriter('/home/roopchand/test/scrapyTest/feedFinder/feedFinder/scripts/sheets/collect_data_sheet.xlsx', engine='xlsxwriter') as writer:
                 df.to_excel(writer, index=False, sheet_name='Data')
             
